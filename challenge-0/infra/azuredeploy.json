@@ -16,9 +16,9 @@
         "swedencentral",
         "francecentral",
         "germanywestcentral",
-        "spaincentral",
-        "polandcentral",
-        "uksouth"
+        "eastus2",
+        "canadacentral",
+        "southafricanorth"
       ],
       "metadata": {
         "description": "Azure location where resources should be deployed (e.g., swedencentral)"
